@@ -59,14 +59,14 @@ After starting my career at **Mphasis** developing scalable, user-centric applic
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshucharak/)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/divyanshucharak)
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:divyanshucharak14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu-charak-a1820516a/)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/divyanshu144)
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:anshucharak159@gmail.com)
 
 ---
 
 ## 🧩 Fun Fact
-When I’m not building data pipelines or ML models, I explore **AI-generated art** and capture **aesthetic night photography** on Instagram → [@divvissions](https://www.instagram.com/divvissions) 🌌  
+When I’m not building data pipelines or ML models, I explore **AI-generated art** and capture **aesthetic night photography**  🌌  
 
 ---
 
