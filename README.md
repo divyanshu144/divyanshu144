@@ -39,24 +39,6 @@ After starting my career at **Mphasis** developing scalable, user-centric applic
 
 ---
 
-## 📂 Featured Projects
-
-| 🏷️ Project | 🔍 Description | 💻 Tech |
-|-------------|----------------|--------|
-| [🏠 UK Housing Energy Modelling](https://github.com/divyanshucharak/dissertation_project) | Causal + ML analysis of UK housing energy efficiency and policy impact. | Python, statsmodels, scikit-learn |
-| [🌐 Twitter Hashtag Polarization](https://github.com/divyanshucharak/twitter_polarization) | Network + NLP analysis revealing political stance and sentiment clusters. | NetworkX, scikit-learn, TF-IDF |
-| [🏡 California Housing Regression](https://github.com/divyanshucharak/california_housing) | Regression comparison (Linear, Ridge, Lasso, RF, MLP) with interpretability. | Python, scikit-learn, Streamlit |
-| [🫒 Olive Oil PCA Clustering](https://github.com/divyanshucharak/oliveoil_pca) | PCA + K-means clustering of olive oil composition for regional insights. | R, {targets}, ggplot2 |
-
----
-
-## 📈 Current Goals
-- ⚡ Master **LLM frameworks** and **agentic AI systems (LangChain, Bedrock)**  
-- 🧱 Strengthen **Big Data & MLOps** (Spark, Kafka, Databricks)  
-- 🧩 Contribute to **open-source projects** that merge causal inference & generative AI  
-
----
-
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu-charak-a1820516a/)
