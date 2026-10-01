@@ -72,7 +72,7 @@ Infrastructure: Docker, Kubernetes, AWS ECS, Railway, GitHub Actions, MLflow, Pr
 ## Experience
 
 Software Engineer, Mphasis  
-2021-2023
+2021-2024
 
 Built and maintained enterprise application modules, worked across frontend/backend workflows, optimized API/database performance, and contributed in agile production environments. I now apply that same engineering discipline to AI systems: testing, observability, deployment, reliability, and measurable impact.
 
